@@ -1,12 +1,5 @@
-# Web Framework & Interface
-streamlit          # Used for the project dashboard and UI
-
-# PDF Generation
-reportlab          # Core library for generating professional project reports
-
-# Database & Backend
-supabase           # Used for database management and data storage
-python-dotenv      # Recommended for managing environment variables/API keys
-
-# Optional (If using specialized data tools mentioned in your summary)
-pandas             # Often used for handling task tables and project metadata
+streamlit
+reportlab
+supabase
+python-dotenv
+openai
