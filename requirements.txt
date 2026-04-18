@@ -3,3 +3,4 @@ reportlab
 supabase
 python-dotenv
 openai
+streamlit-calendar
